@@ -1,3 +1,10 @@
 # Hi, I'm Khanh Le Vu, nice to meet you!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulekhanh&show_icons=true&theme=aura)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=aura" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulekhanh&langs_count=8" />
+</a>
+
+
 
