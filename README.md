@@ -10,7 +10,7 @@
 ![vulekhanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulekhanh&theme=gruvbox&show_icons=true)
 
 [![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=vulekhanh&repo=dotfiles&theme=gruvbox)](https://github.com/vulekhanh/dotfiles)
-[![Car sales management application](https://github-readme-stats.vercel.app/api/pin/?username=vulekhanh&repo=CarSalesSystem&theme=gruvbox)](https://github.com/vulekhanh/CarSalesSystem)
+[![Car sales management application](https://github-readme-stats.vercel.app/api/pin/?username=vulekhanh&repo=CarSalesSystem&theme=gruvbox)](https://github.com/vulekhanh/CarSalesManagement)
 
 
 
