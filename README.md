@@ -8,9 +8,11 @@
 
 ## 📈 Github Stats:
 ![vulekhanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulekhanh&theme=gruvbox&show_icons=true)
+## 💻 Projects:
 
 [![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=vulekhanh&repo=dotfiles&theme=gruvbox)](https://github.com/vulekhanh/dotfiles)
-[![Car sales management application](https://github-readme-stats.vercel.app/api/pin/?username=vulekhanh&repo=CarSalesSystem&theme=gruvbox)](https://github.com/vulekhanh/CarSalesManagement)
+
+[![Car sales management application](https://github-readme-stats.vercel.app/api/pin/?username=vulekhanh&repo=CarSalesManagement&theme=gruvbox)](https://github.com/vulekhanh/CarSalesManagement)
 
 
 
