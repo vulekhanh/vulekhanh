@@ -5,13 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vulekhanh" alt="vulekhanh" /></a> </p>
 
-- 🔭 I’m currently working on [Scical](https://github.com/vulekhanh/Calculator)
 
 - 🌱 I’m currently learning **React, Flutter, Xamarin, Spring**
 
-- 🤝 I’m looking for help with [Dotfiles](https://github.com/vulekhanh/dotfiles)
-
-- 📫 How to reach me **vulekhanh69@gmail.com**
+- 📫 How to reach me **khanhlvu2@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vulekhanh/](https://www.linkedin.com/in/vulekhanh/)
 
