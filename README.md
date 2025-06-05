@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khanh Le Vu</h1>
-<h3 align="center">A passionate Software Engineer (I'm still learning tho) from Vietnam.</h3>
+<h1 align="center">Hi 👋, I'm Khanh Vu</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vulekhanh&label=Profile%20views&color=0e75b6&style=flat" alt="vulekhanh" /> </p>
 
